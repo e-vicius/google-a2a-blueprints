@@ -1,6 +1,6 @@
 # Google Agent Blueprints
 
-> **System instructions, architectural rules, and `.cursorrules` for building scalable AI Agents with the Google A2A Protocol and Google AI Agent SDK.**
+> **System instructions and architectural rules for building scalable AI Agents with the Google A2A Protocol and Google AI Agent SDK.**
 
 ![Google AI](https://img.shields.io/badge/Google_AI-Agent_SDK-blue?style=flat-square) ![Protocol](https://img.shields.io/badge/Protocol-A2A-red?style=flat-square) ![IDE](https://img.shields.io/badge/Compatible_With-Cursor_|_Windsurf-success?style=flat-square)
 

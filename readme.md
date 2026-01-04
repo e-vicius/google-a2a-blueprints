@@ -24,6 +24,7 @@ This repository focuses specifically on:
 | Blueprint | Description | Use Case |
 | :--- | :--- | :--- |
 | **[`context-systems.md`](./context-systems.md)** | Enforces the "Shared Memory" architecture. Prevents siloed agent state by mandating a central memory microservice. | Multi-Agent Fleets |
+| **[`a2a-discovery.md`](./a2a-discovery.md)** | Enforces the "Agent Card" pattern for discovery and interoperability. | Multi-Agent Fleets |
 
 ## 🛠 How to Use
 

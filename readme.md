@@ -25,6 +25,8 @@ This repository focuses specifically on:
 | :--- | :--- | :--- |
 | **[`rules/context-systems.md`](./rules/context-systems.md)** | Enforces the "Shared Memory" architecture. Prevents siloed agent state by mandating a central memory microservice. | Multi-Agent Fleets |
 | **[`rules/a2a-discovery.md`](./rules/a2a-discovery.md)** | Enforces the "Agent Card" pattern for discovery and interoperability. | Multi-Agent Fleets |
+| **[`rules/multi-agent-orchestration.md`](./rules/multi-agent-orchestration.md)** | Enforces the "Coordinator Pattern" for orchestrating multi-agent workflows. | Multi-Agent Fleets |
+| **[`rules/agent-tools-and-safety.md`](./rules/agent-tools-and-safety.md)** | Enforces the "Pydantic Mandate" for tool definition and safety. | Agent Development |
 
 ## 🛠 How to Use
 

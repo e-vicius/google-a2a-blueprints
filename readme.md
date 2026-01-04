@@ -27,6 +27,7 @@ This repository focuses specifically on:
 | **[`rules/a2a-discovery.md`](./rules/a2a-discovery.md)** | Enforces the "Agent Card" pattern for discovery and interoperability. | Multi-Agent Fleets |
 | **[`rules/multi-agent-orchestration.md`](./rules/multi-agent-orchestration.md)** | Enforces the "Coordinator Pattern" for orchestrating multi-agent workflows. | Multi-Agent Fleets |
 | **[`rules/agent-tools-and-safety.md`](./rules/agent-tools-and-safety.md)** | Enforces the "Pydantic Mandate" for tool definition and safety. | Agent Development |
+| **[`rules/agent-testing-standards.md`](./rules/agent-testing-standards.md)** | Enforces the "Golden Dataset" pattern for testing. | Agent Development |
 
 ## 🛠 How to Use
 

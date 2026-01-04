@@ -41,6 +41,3 @@ You can also inject these markdown files directly into your Agent's **System Pro
 We welcome contributions! If you have optimized a set of rules for the Google Agent ecosystem or found a better way to instruct AI IDEs on A2A patterns, please submit a PR.
 
 ---
-
-### **Looking for the latest Context System rules?**
-Check out [context-systems.md](./context-systems.md) to see how we define shared memory architectures based on the latest Google Cloud Tech deep dives.
